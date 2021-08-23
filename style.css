@@ -1,6 +1,7 @@
  body{
-
+background-image: url('bcg.jpg');
     background-size: cover;
     box-sizing: border-box;
    background-color:rgba(220, 235, 255, 0.479);
+min-height: 100vh;
 }
